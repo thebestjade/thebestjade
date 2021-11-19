@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jade Cordeiro</h1>
-<h3 align="center">A enthusiastic fullStack developer from Brazil</h3>
+<h3 align="center">A BackEnd developer from Brazil</h3>
 
-- 🌱 I’m currently learning **full-Stack development at Cubos Academy**
+- 🌱 I’m already finished the course  **full-Stack development at Cubos Academy**
+
+- 🌱 I'm learning **Java language** now!
 
 - 📫 How to reach me **jade.cordeiro2015@hotmail.com**
 
